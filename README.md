@@ -1,6 +1,9 @@
 # yyj
 
 ## Project setup
+
+> 这是我们讲师带着我们写一个猫眼的项目
+
 ```
 npm install
 ```
