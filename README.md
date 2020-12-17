@@ -2,7 +2,7 @@
 
 ## Project setup
 
-> 我是你的好朋友啊
+> 这是我们讲师带着我们写一个猫眼的项目
 
 ```
 npm install
