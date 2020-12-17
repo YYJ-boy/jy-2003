@@ -1,6 +1,9 @@
 # yyj
 
 ## Project setup
+
+> 我是你的好朋友啊
+
 ```
 npm install
 ```
